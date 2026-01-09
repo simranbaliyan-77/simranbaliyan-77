@@ -12,7 +12,8 @@ Currently working on: IBM cybersecurity course, Forage virtual internships, and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simranbaliyan-77&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simranbaliyan-77&show_icons=true&theme=dark)
+
 
 
 
