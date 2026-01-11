@@ -1,5 +1,5 @@
 About Me:
-Currently working on: IBM cybersecurity course, Forage virtual internships, and building Python projects.<br>Learning: Cybersecurity, Python, IAM development, solving DSA in leetcode and woring with new  AI tools.<br>Fun fact / Interests: english literature student | Tech enthusiast.<br>Goals: Create cybersecurity projects, contribute to open-source, and grow my skills in Python,c++ and security.
+Currently working on: IBM cybersecurity course, Forage virtual internships, and building Python projects.<br>Learning: Cybersecurity, Python, IAM development, solving DSA in leetcode and woring with new  AI tools.<br> Interests: english literature student | Tech enthusiast.<br>Goals: Create cybersecurity projects, contribute to open-source, and grow my skills in Python,c++ and security.
 
 
 ## 🌐 Socials:
